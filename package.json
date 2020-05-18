@@ -1,0 +1,23 @@
+{
+  "name": "epos-discord-bot",
+  "version": "1.0.0",
+  "description": "Discord bot for Epos",
+  "main": "bot.js",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fippe94/epos-discord-bot.git"
+  },
+  "author": "Fippe94",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fippe94/epos-discord-bot/issues"
+  },
+  "homepage": "https://github.com/Fippe94/epos-discord-bot#readme"
+}
